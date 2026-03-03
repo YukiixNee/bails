@@ -14,9 +14,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/YukiiNee/bails",
+  "homepage": "https://github.com/YukiixNee/bails",
   "repository": {
-    "url": "git+ssh://git@github.com/YukiiNee/bails.git"
+    "url": "git+ssh://git@github.com/YukiixNee/bails.git"
   },
   "license": "MIT",
   "author": "IkyyKzy",
